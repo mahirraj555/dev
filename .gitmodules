@@ -1,0 +1,4 @@
+[submodule "eranetsa/era_odoo14"]
+	path = eranetsa/era_odoo14
+	url = git@github.com:eranetsa/era_odoo14.git
+	branch = main
