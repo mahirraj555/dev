@@ -1,9 +1,0 @@
-[submodule "eranetsa/era_odoo14"]
-	path = eranetsa/era_odoo14
-	url = git@github.com:eranetsa/era_odoo14.git
-	branch = main
-
-[submodule "eranetsa/hr14"]
-	path = eranetsa/hr14
-	url = git@github.com:eranetsa/hr14.git
-	branch = master
