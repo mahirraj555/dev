@@ -1,7 +1,3 @@
-[submodule "eranetsa/hr14"]
-	path = eranetsa/hr14
-	url = git@github.com:eranetsa/hr14.git
-	branch = master
 [submodule "hr14"]
 	path = hr14
 	url = git@github.com:eranetsa/hr14.git
